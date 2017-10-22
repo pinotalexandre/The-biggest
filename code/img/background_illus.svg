@@ -1,0 +1,340 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-1791 0 1911 716">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Taille_personnalisée_1);
+      }
+
+      .cls-2, .cls-3 {
+        fill: #24e444;
+        stroke: #25b53d;
+      }
+
+      .cls-10, .cls-11, .cls-17, .cls-18, .cls-2, .cls-20 {
+        stroke-width: 5px;
+      }
+
+      .cls-3, .cls-9 {
+        stroke-width: 4px;
+      }
+
+      .cls-12, .cls-21, .cls-26, .cls-4, .cls-5, .cls-8 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke: #95989a;
+        stroke-width: 8px;
+        opacity: 0.22;
+      }
+
+      .cls-11, .cls-20, .cls-5 {
+        stroke: #5a5a5a;
+      }
+
+      .cls-5, .cls-8 {
+        stroke-width: 7px;
+      }
+
+      .cls-6 {
+        fill: #b3d4e9;
+      }
+
+      .cls-7 {
+        fill: #d9e2e8;
+      }
+
+      .cls-8 {
+        stroke: #646464;
+      }
+
+      .cls-27, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-10, .cls-17, .cls-9 {
+        stroke: #4d4d4d;
+      }
+
+      .cls-10 {
+        fill: #4c85e6;
+      }
+
+      .cls-11 {
+        fill: #c0d0ec;
+      }
+
+      .cls-12 {
+        stroke: #b0c6ee;
+      }
+
+      .cls-12, .cls-21 {
+        stroke-width: 3px;
+      }
+
+      .cls-13 {
+        fill: #e99494;
+      }
+
+      .cls-14 {
+        fill: #e6c7c7;
+      }
+
+      .cls-15 {
+        fill: #ffdede;
+      }
+
+      .cls-15, .cls-16 {
+        opacity: 0.61;
+      }
+
+      .cls-16 {
+        fill: #efeadb;
+      }
+
+      .cls-17 {
+        fill: #e64c71;
+      }
+
+      .cls-18, .cls-19, .cls-22 {
+        fill: #9b9b9b;
+      }
+
+      .cls-18, .cls-19 {
+        stroke: #6a6a6a;
+      }
+
+      .cls-19, .cls-22 {
+        stroke-width: 6px;
+      }
+
+      .cls-20 {
+        fill: #ff6868;
+      }
+
+      .cls-21 {
+        stroke: #eeb0b0;
+      }
+
+      .cls-22 {
+        stroke: #6c6c6c;
+      }
+
+      .cls-23, .cls-24 {
+        fill: #0a0adc;
+        font-family: Poppins-SemiBold, Poppins;
+        font-weight: 600;
+      }
+
+      .cls-23 {
+        font-size: 29px;
+      }
+
+      .cls-24 {
+        font-size: 13px;
+      }
+
+      .cls-25 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-Taille_personnalisée_1">
+      <rect x="-1791" width="1911" height="716"/>
+    </clipPath>
+    <image id="image" width="187" height="86" xlink:href="data:image/png;base64,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"/>
+  </defs>
+  <g id="Taille_personnalisée_1" data-name="Taille personnalisée – 1" class="cls-1">
+    <rect class="cls-27" x="-1791" width="1911" height="716"/>
+    <path id="Tracé_1" data-name="Tracé 1" class="cls-2" d="M4737.5,3701s-37.3-.5-53.1-30.4,33.4-35.2,33.4-35.2-40.5-8.7-33.4-31.6,33.4-33.3,33.4-33.3Z" transform="matrix(1, 0.017, -0.017, 1, -5683.563, -3073.701)"/>
+    <path id="Tracé_2" data-name="Tracé 2" class="cls-3" d="M4681.272,3701s39.585-.5,56.353-30.4-35.446-35.2-35.446-35.2,42.98-8.7,35.446-31.6-35.446-33.3-35.446-33.3Z" transform="matrix(0.961, -0.276, 0.276, 0.961, -6528.971, -1558.383)"/>
+    <path id="Tracé_3" data-name="Tracé 3" class="cls-2" d="M4892,3982.315s7.149-71.337,91.357-48.773,65.978,48.773,65.978,48.773Z" transform="translate(-5660 -3269.515)"/>
+    <path id="Tracé_4" data-name="Tracé 4" class="cls-4" d="M4495.5,3740s396.5-275.5,904.2-145" transform="matrix(0.53, 0.848, -0.848, 0.53, -1361.892, -5930.03)"/>
+    <line id="Segment_1" data-name="Segment 1" class="cls-5" x2="1920" transform="translate(-1800.5 712.5)"/>
+    <path id="Tracé_5" data-name="Tracé 5" class="cls-6" d="M3980.5,3432.5h326.308L4455,3473.6H3980.5Z" transform="translate(-5782 -3049.6)"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-6" width="556" height="25" transform="translate(-1801 430)"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-7" width="513" height="249" transform="translate(-1801 460)"/>
+    <line id="Segment_2" data-name="Segment 2" class="cls-5" x2="557" transform="translate(-1801.5 457.5)"/>
+    <line id="Segment_3" data-name="Segment 3" class="cls-5" x2="557" transform="translate(-1801.5 427.5)"/>
+    <line id="Segment_4" data-name="Segment 4" class="cls-5" y1="249" transform="translate(-1285.5 459.5)"/>
+    <line id="Segment_5" data-name="Segment 5" class="cls-5" y2="32.5" transform="translate(-1637 350.5)"/>
+    <line id="Segment_6" data-name="Segment 6" class="cls-5" y2="32.5" transform="translate(-1657 350.5)"/>
+    <line id="Segment_7" data-name="Segment 7" class="cls-5" y2="32.5" transform="translate(-1677 350.5)"/>
+    <line id="Segment_8" data-name="Segment 8" class="cls-5" y2="32.5" transform="translate(-1697 350.5)"/>
+    <line id="Segment_9" data-name="Segment 9" class="cls-5" y2="32.5" transform="translate(-1717 350.5)"/>
+    <line id="Segment_10" data-name="Segment 10" class="cls-5" y2="32.5" transform="translate(-1737 350.5)"/>
+    <line id="Segment_11" data-name="Segment 11" class="cls-5" y2="32.5" transform="translate(-1497 350.5)"/>
+    <line id="Segment_12" data-name="Segment 12" class="cls-5" y2="32.5" transform="translate(-1517 350.5)"/>
+    <line id="Segment_13" data-name="Segment 13" class="cls-5" y2="32.5" transform="translate(-1537 350.5)"/>
+    <line id="Segment_14" data-name="Segment 14" class="cls-5" y2="32.5" transform="translate(-1557 350.5)"/>
+    <line id="Segment_15" data-name="Segment 15" class="cls-5" y2="32.5" transform="translate(-1617 350.5)"/>
+    <line id="Segment_16" data-name="Segment 16" class="cls-5" y2="32.5" transform="translate(-1597 350.5)"/>
+    <line id="Segment_17" data-name="Segment 17" class="cls-5" y2="32.5" transform="translate(-1577 350.5)"/>
+    <line id="Segment_18" data-name="Segment 18" class="cls-8" x2="332" transform="translate(-1815.5 359.5)"/>
+    <line id="Segment_19" data-name="Segment 19" class="cls-8" x2="332" transform="translate(-1815.5 375.5)"/>
+    <line id="Segment_20" data-name="Segment 20" class="cls-5" y2="32.5" transform="translate(-1637 350.5)"/>
+    <line id="Segment_21" data-name="Segment 21" class="cls-5" y2="32.5" transform="translate(-1657 350.5)"/>
+    <line id="Segment_22" data-name="Segment 22" class="cls-5" y2="32.5" transform="translate(-1677 350.5)"/>
+    <line id="Segment_23" data-name="Segment 23" class="cls-5" y2="32.5" transform="translate(-1697 350.5)"/>
+    <line id="Segment_24" data-name="Segment 24" class="cls-5" y2="32.5" transform="translate(-1717 350.5)"/>
+    <line id="Segment_25" data-name="Segment 25" class="cls-5" y2="32.5" transform="translate(-1497 350.5)"/>
+    <line id="Segment_26" data-name="Segment 26" class="cls-5" y2="32.5" transform="translate(-1517 350.5)"/>
+    <line id="Segment_27" data-name="Segment 27" class="cls-5" y2="32.5" transform="translate(-1537 350.5)"/>
+    <line id="Segment_28" data-name="Segment 28" class="cls-5" y2="32.5" transform="translate(-1557 350.5)"/>
+    <line id="Segment_29" data-name="Segment 29" class="cls-5" y2="32.5" transform="translate(-1617 350.5)"/>
+    <line id="Segment_30" data-name="Segment 30" class="cls-5" y2="32.5" transform="translate(-1597 350.5)"/>
+    <line id="Segment_31" data-name="Segment 31" class="cls-5" y2="32.5" transform="translate(-1577 350.5)"/>
+    <line id="Segment_32" data-name="Segment 32" class="cls-8" x2="332" transform="translate(-1815.5 359.5)"/>
+    <line id="Segment_33" data-name="Segment 33" class="cls-8" x2="332" transform="translate(-1815.5 375.5)"/>
+    <g id="Rectangle_3" data-name="Rectangle 3" class="cls-9" transform="translate(-1619 608)">
+      <rect class="cls-25" width="93" height="25"/>
+      <rect class="cls-26" x="2" y="2" width="89" height="21"/>
+    </g>
+    <g id="Rectangle_4" data-name="Rectangle 4" class="cls-10" transform="translate(-1619 524)">
+      <rect class="cls-25" width="93" height="88"/>
+      <rect class="cls-26" x="2.5" y="2.5" width="88" height="83"/>
+    </g>
+    <g id="Rectangle_5" data-name="Rectangle 5" class="cls-9" transform="translate(-1747 608)">
+      <rect class="cls-25" width="93" height="25"/>
+      <rect class="cls-26" x="2" y="2" width="89" height="21"/>
+    </g>
+    <g id="Rectangle_6" data-name="Rectangle 6" class="cls-10" transform="translate(-1747 524)">
+      <rect class="cls-25" width="93" height="88"/>
+      <rect class="cls-26" x="2.5" y="2.5" width="88" height="83"/>
+    </g>
+    <g id="Rectangle_7" data-name="Rectangle 7" class="cls-11" transform="translate(-1430 556)">
+      <rect class="cls-25" width="93" height="159"/>
+      <rect class="cls-26" x="2.5" y="2.5" width="88" height="154"/>
+    </g>
+    <g id="Rectangle_8" data-name="Rectangle 8" class="cls-12" transform="translate(-1412 573)">
+      <rect class="cls-25" width="25" height="56"/>
+      <rect class="cls-26" x="1.5" y="1.5" width="22" height="53"/>
+    </g>
+    <g id="Rectangle_9" data-name="Rectangle 9" class="cls-12" transform="translate(-1379 573)">
+      <rect class="cls-25" width="25" height="56"/>
+      <rect class="cls-26" x="1.5" y="1.5" width="22" height="53"/>
+    </g>
+    <g id="Rectangle_10" data-name="Rectangle 10" class="cls-12" transform="translate(-1412 644)">
+      <rect class="cls-25" width="25" height="56"/>
+      <rect class="cls-26" x="1.5" y="1.5" width="22" height="53"/>
+    </g>
+    <g id="Rectangle_11" data-name="Rectangle 11" class="cls-12" transform="translate(-1379 644)">
+      <rect class="cls-25" width="25" height="56"/>
+      <rect class="cls-26" x="1.5" y="1.5" width="22" height="53"/>
+    </g>
+    <path id="Tracé_6" data-name="Tracé 6" class="cls-13" d="M4477.13,3432.5H4135.6l-155.1,43.017h496.63Z" transform="translate(-4319.283 -3065.589)"/>
+    <rect id="Rectangle_12" data-name="Rectangle 12" class="cls-13" width="581.931" height="26.166" transform="translate(-424.607 416.208)"/>
+    <rect id="Rectangle_13" data-name="Rectangle 13" class="cls-14" width="536.926" height="260.613" transform="translate(-379.602 447.607)"/>
+    <line id="Segment_34" data-name="Segment 34" class="cls-5" x1="582.978" transform="translate(-425.131 444.99)"/>
+    <line id="Segment_35" data-name="Segment 35" class="cls-5" x1="582.978" transform="translate(-425.131 413.591)"/>
+    <line id="Segment_36" data-name="Segment 36" class="cls-5" y1="260.613" transform="translate(-382.219 447.084)"/>
+    <line id="Segment_37" data-name="Segment 37" class="cls-5" y2="34.015" transform="translate(-14.325 333)"/>
+    <line id="Segment_38" data-name="Segment 38" class="cls-5" y2="34.015" transform="translate(6.607 333)"/>
+    <line id="Segment_39" data-name="Segment 39" class="cls-5" y2="34.015" transform="translate(27.541 333)"/>
+    <line id="Segment_40" data-name="Segment 40" class="cls-5" y2="34.015" transform="translate(48.473 333)"/>
+    <line id="Segment_41" data-name="Segment 41" class="cls-5" y2="34.015" transform="translate(-160.854 333)"/>
+    <line id="Segment_42" data-name="Segment 42" class="cls-5" y2="34.015" transform="translate(-139.922 333)"/>
+    <line id="Segment_43" data-name="Segment 43" class="cls-5" y2="34.015" transform="translate(-118.989 333)"/>
+    <line id="Segment_44" data-name="Segment 44" class="cls-5" y2="34.015" transform="translate(-98.056 333)"/>
+    <line id="Segment_45" data-name="Segment 45" class="cls-5" y2="34.015" transform="translate(-35.258 333)"/>
+    <line id="Segment_46" data-name="Segment 46" class="cls-5" y2="34.015" transform="translate(-56.19 333)"/>
+    <line id="Segment_47" data-name="Segment 47" class="cls-5" y2="34.015" transform="translate(-77.124 333)"/>
+    <line id="Segment_48" data-name="Segment 48" class="cls-8" x1="347.484" transform="translate(-174.984 342.42)"/>
+    <line id="Segment_49" data-name="Segment 49" class="cls-8" x1="347.484" transform="translate(-174.984 359.166)"/>
+    <line id="Segment_50" data-name="Segment 50" class="cls-5" y2="34.015" transform="translate(-14.325 333)"/>
+    <line id="Segment_51" data-name="Segment 51" class="cls-5" y2="34.015" transform="translate(6.607 333)"/>
+    <line id="Segment_52" data-name="Segment 52" class="cls-5" y2="34.015" transform="translate(27.541 333)"/>
+    <line id="Segment_53" data-name="Segment 53" class="cls-5" y2="34.015" transform="translate(48.473 333)"/>
+    <line id="Segment_54" data-name="Segment 54" class="cls-5" y2="34.015" transform="translate(-160.854 333)"/>
+    <line id="Segment_55" data-name="Segment 55" class="cls-5" y2="34.015" transform="translate(-139.922 333)"/>
+    <line id="Segment_56" data-name="Segment 56" class="cls-5" y2="34.015" transform="translate(-118.989 333)"/>
+    <line id="Segment_57" data-name="Segment 57" class="cls-5" y2="34.015" transform="translate(-98.056 333)"/>
+    <line id="Segment_58" data-name="Segment 58" class="cls-5" y2="34.015" transform="translate(-35.258 333)"/>
+    <line id="Segment_59" data-name="Segment 59" class="cls-5" y2="34.015" transform="translate(-56.19 333)"/>
+    <line id="Segment_60" data-name="Segment 60" class="cls-5" y2="34.015" transform="translate(-77.124 333)"/>
+    <line id="Segment_61" data-name="Segment 61" class="cls-8" x1="347.484" transform="translate(-174.984 342.42)"/>
+    <line id="Segment_62" data-name="Segment 62" class="cls-8" x1="347.484" transform="translate(-174.984 359.166)"/>
+    <path id="Tracé_7" data-name="Tracé 7" class="cls-15" d="M4962.7,3468s20.711-150.1,169.7-150.1h7.1v154.4Z" transform="translate(-5781 -3068)"/>
+    <g id="Rectangle_14" data-name="Rectangle 14" class="cls-9" transform="translate(-130.502 602.51)">
+      <rect class="cls-25" width="97.337" height="26.166"/>
+      <rect class="cls-26" x="2" y="2" width="93.337" height="22.166"/>
+    </g>
+    <path id="Tracé_8" data-name="Tracé 8" class="cls-16" d="M4962.7,3468s20.711-150.1,169.7-150.1h7.1v154.4Z" transform="matrix(-0.999, 0.035, -0.035, -0.999, 4120.602, 3415.786)"/>
+    <g id="Rectangle_15" data-name="Rectangle 15" class="cls-17" transform="translate(-130.502 514.592)">
+      <rect class="cls-25" width="97.337" height="92.104"/>
+      <rect class="cls-26" x="2.5" y="2.5" width="92.337" height="87.104"/>
+    </g>
+    <g id="Rectangle_16" data-name="Rectangle 16" class="cls-18" transform="translate(-637 122) rotate(90)">
+      <rect class="cls-25" width="282" height="11"/>
+      <rect class="cls-26" x="2.5" y="2.5" width="277" height="6"/>
+    </g>
+    <g id="Rectangle_17" data-name="Rectangle 17" class="cls-19" transform="translate(-1043 692)">
+      <rect class="cls-25" width="38" height="19"/>
+      <rect class="cls-26" x="3" y="3" width="32" height="13"/>
+    </g>
+    <g id="Rectangle_18" data-name="Rectangle 18" class="cls-19" transform="translate(-768 692)">
+      <rect class="cls-25" width="38" height="19"/>
+      <rect class="cls-26" x="3" y="3" width="32" height="13"/>
+    </g>
+    <g id="Rectangle_19" data-name="Rectangle 19" class="cls-9" transform="translate(3.468 602.51)">
+      <rect class="cls-25" width="97.337" height="26.166"/>
+      <rect class="cls-26" x="2" y="2" width="93.337" height="22.166"/>
+    </g>
+    <g id="Rectangle_20" data-name="Rectangle 20" class="cls-17" transform="translate(3.468 514.592)">
+      <rect class="cls-25" width="97.337" height="92.104"/>
+      <rect class="cls-26" x="2.5" y="2.5" width="92.337" height="87.104"/>
+    </g>
+    <g id="Rectangle_21" data-name="Rectangle 21" class="cls-20" transform="translate(-328.317 548.084)">
+      <rect class="cls-25" width="97.337" height="166.416"/>
+      <rect class="cls-26" x="2.5" y="2.5" width="92.337" height="161.416"/>
+    </g>
+    <g id="Rectangle_22" data-name="Rectangle 22" class="cls-18" transform="translate(-1131 122) rotate(90)">
+      <rect class="cls-25" width="282" height="11"/>
+      <rect class="cls-26" x="2.5" y="2.5" width="277" height="6"/>
+    </g>
+    <g id="Rectangle_23" data-name="Rectangle 23" class="cls-21" transform="translate(-275.985 565.877)">
+      <rect class="cls-25" width="26.166" height="58.612"/>
+      <rect class="cls-26" x="1.5" y="1.5" width="23.166" height="55.612"/>
+    </g>
+    <g id="Rectangle_24" data-name="Rectangle 24" class="cls-21" transform="translate(-310.524 565.877)">
+      <rect class="cls-25" width="26.166" height="58.612"/>
+      <rect class="cls-26" x="1.5" y="1.5" width="23.166" height="55.612"/>
+    </g>
+    <g id="Rectangle_25" data-name="Rectangle 25" class="cls-21" transform="translate(-275.985 640.188)">
+      <rect class="cls-25" width="26.166" height="58.612"/>
+      <rect class="cls-26" x="1.5" y="1.5" width="23.166" height="55.612"/>
+    </g>
+    <g id="Rectangle_26" data-name="Rectangle 26" class="cls-21" transform="translate(-310.524 640.188)">
+      <rect class="cls-25" width="26.166" height="58.612"/>
+      <rect class="cls-26" x="1.5" y="1.5" width="23.166" height="55.612"/>
+    </g>
+    <g id="Rectangle_27" data-name="Rectangle 27" class="cls-22" transform="translate(-1037 410)">
+      <rect class="cls-25" width="26" height="285"/>
+      <rect class="cls-26" x="3" y="3" width="20" height="279"/>
+    </g>
+    <g id="Rectangle_28" data-name="Rectangle 28" class="cls-19" transform="translate(-762 410)">
+      <rect class="cls-25" width="26" height="285"/>
+      <rect class="cls-26" x="3" y="3" width="20" height="279"/>
+    </g>
+    <g id="Rectangle_29" data-name="Rectangle 29" class="cls-18" transform="translate(-1149 400)">
+      <rect class="cls-25" width="520" height="14"/>
+      <rect class="cls-26" x="2.5" y="2.5" width="515" height="9"/>
+    </g>
+    <g id="Rectangle_30" data-name="Rectangle 30" class="cls-18" transform="translate(-1149 113)">
+      <rect class="cls-25" width="520" height="14"/>
+      <rect class="cls-26" x="2.5" y="2.5" width="515" height="9"/>
+    </g>
+    <text id="WE_NEED_YOU." data-name="WE NEED YOU." class="cls-23" transform="translate(-988 268)"><tspan x="0" y="0">WE NEED YOU.</tspan></text>
+    <text id="geomething." class="cls-24" transform="translate(-749 380)"><tspan x="0" y="0">geomething.</tspan></text>
+    <path id="Tracé_9" data-name="Tracé 9" class="cls-2" d="M4892,3982.315s7.149-71.337,91.357-48.773,65.978,48.773,65.978,48.773Z" transform="translate(-6753 -3268.515)"/>
+    <use id="_4032434624aed014acba78864dc422e3" data-name="4032434624aed014acba78864dc422e3" transform="translate(-418 192)" xlink:href="#image"/>
+    <use id="_4032434624aed014acba78864dc422e3-2" data-name="4032434624aed014acba78864dc422e3" transform="translate(-986 467)" xlink:href="#image"/>
+    <use id="_4032434624aed014acba78864dc422e3-3" data-name="4032434624aed014acba78864dc422e3" transform="translate(-1604 185)" xlink:href="#image"/>
+    <use id="_4032434624aed014acba78864dc422e3-4" data-name="4032434624aed014acba78864dc422e3" transform="translate(-82 9)" xlink:href="#image"/>
+    <use id="_4032434624aed014acba78864dc422e3-5" data-name="4032434624aed014acba78864dc422e3" transform="translate(-1781 -4)" xlink:href="#image"/>
+    <line id="Segment_63" data-name="Segment 63" class="cls-5" y2="32.5" transform="translate(-1757 350.5)"/>
+    <line id="Segment_64" data-name="Segment 64" class="cls-5" y2="32.5" transform="translate(-1757 350.5)"/>
+    <line id="Segment_65" data-name="Segment 65" class="cls-5" y2="34.015" transform="translate(69.473 333)"/>
+    <line id="Segment_66" data-name="Segment 66" class="cls-5" y2="34.015" transform="translate(89.473 333)"/>
+    <line id="Segment_67" data-name="Segment 67" class="cls-5" y2="34.015" transform="translate(109.473 333)"/>
+  </g>
+</svg>

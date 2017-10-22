@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Taille_personnalisée_1);
+      }
+
+      .cls-2, .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #d8d8d8;
+      }
+
+      .cls-3, .cls-4, .cls-6 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #95989a;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-width: 6px;
+      }
+
+      .cls-4 {
+        stroke: #b5e3f7;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+
+      .cls-8 {
+        filter: url(#Rectangle_12);
+      }
+
+      .cls-9 {
+        filter: url(#Rectangle_11);
+      }
+
+      .cls-10 {
+        filter: url(#Rectangle_10);
+      }
+
+      .cls-11 {
+        filter: url(#Rectangle_9);
+      }
+    </style>
+    <filter id="Rectangle_9" x="127" y="133" width="247" height="239" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feFlood flood-opacity="0.188"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_10" x="151" y="156" width="199" height="193" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-2"/>
+      <feFlood flood-opacity="0.188"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_11" x="177" y="181" width="148" height="144" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-3"/>
+      <feFlood flood-opacity="0.188"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_12" x="197" y="200" width="109" height="107" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-4"/>
+      <feFlood flood-opacity="0.188"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Taille_personnalisée_1">
+      <rect width="500" height="500"/>
+    </clipPath>
+  </defs>
+  <g id="Taille_personnalisée_1" data-name="Taille personnalisée – 1" class="cls-1">
+    <rect class="cls-7" width="500" height="500"/>
+    <g class="cls-11" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <g id="Rectangle_9-2" data-name="Rectangle 9" class="cls-2" transform="translate(154 158)">
+        <rect class="cls-5" width="193" height="185" rx="38"/>
+        <rect class="cls-6" x="0.5" y="0.5" width="192" height="184" rx="37.5"/>
+      </g>
+    </g>
+    <g class="cls-10" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <g id="Rectangle_10-2" data-name="Rectangle 10" class="cls-3" transform="translate(178 181)">
+        <rect class="cls-5" width="145" height="139" rx="38"/>
+        <rect class="cls-6" x="3" y="3" width="139" height="133" rx="35"/>
+      </g>
+    </g>
+    <g class="cls-9" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <g id="Rectangle_11-2" data-name="Rectangle 11" class="cls-4" transform="translate(204 206)">
+        <rect class="cls-5" width="94" height="90" rx="25"/>
+        <rect class="cls-6" x="3" y="3" width="88" height="84" rx="22"/>
+      </g>
+    </g>
+    <g class="cls-8" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <g id="Rectangle_12-2" data-name="Rectangle 12" class="cls-4" transform="translate(224 225)">
+        <rect class="cls-5" width="55" height="53" rx="25"/>
+        <rect class="cls-6" x="3" y="3" width="49" height="47" rx="22"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,353 @@
+html {
+height: 100%;
+    margin: 0;
+}
+#allfunction ::selection {
+    background-color: #e2e2e2;
+    color: #f351ff;
+}
+
+body {position: relative;}
+footer {position: absolute; bottom: 0;}
+* {-moz-box-sizing: border-box; box-sizing: border-box;}
+body{
+    background-color: #fff;
+    margin:0 auto;
+        max-width: 100%;
+    width: 100%;
+    overflow: auto;
+      min-height: 100%;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: auto;
+        margin: 0;
+        padding: 0;
+  
+}
+header {
+    max-width: 1069px;
+    padding: 70px 0 0;
+    margin: 0 auto;
+    height: 20px;
+}
+.logoheader {
+    height: 35px;
+    float: left;
+    margin-top: -7px;
+}
+header nav a.menu {
+    display: none;
+    text-decoration: none;
+}
+header nav ul {
+margin-left: 477px;
+    margin-top: -1px;
+}
+
+header nav ul li {
+    display: inline-block;
+}
+header nav ul li a {
+color: #000;
+    font-size: 18px;
+    text-decoration: none;
+    margin-left: 79px;
+    font-family: 'Brandon Grotesque';
+    letter-spacing: 1px;
+    transition-property: color;
+    transition-duration: 0.4s;
+    transition-delay: 0.2s;
+}
+header nav ul li a:hover {
+color: #0303DD;
+    font-size: 18px;
+    text-decoration: none;
+    margin-left: 79px;
+    font-family: 'Brandon Grotesque';
+    transition-property: color;
+    transition-duration: 0.4s;
+    transition-delay: 0.2s; 
+}
+
+.wrapper {
+    max-width: 1069px;
+    margin: 165px auto;
+}
+.hero {
+    position: relative;
+    min-height: 500px;
+}
+h1 {
+font-family: 'Brandon Grotesque';
+    letter-spacing: 1px;
+    font-size: 3em;
+}
+.hero span {
+    color: #FF7777;
+}
+.hero .our-team {
+font-family: 'Poppins';
+    color: #AEAEAE;
+    font-size: 21px;
+}
+.hero .buttonworkhero {
+    font-family: Poppins;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 40px;
+    border: solid #FF7777 2px;
+    background: #FF7777;
+    height: 46.88px;
+    color: #fff;
+    width: 163.4px;
+    font-size: 10px;
+    margin-top: 21px;
+    cursor: auto;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px transparent;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+}
+.hero .buttonworkhero:hover {
+      -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+.hero .buttoncontacthero {
+    font-family: Poppins;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 40px;
+    border: solid #95989A 1px;
+    background: none;
+    height: 46.88px;
+    color: #95989A;
+    width: 163.4px;
+    font-size: 10px;
+    margin-top: 21px;
+    cursor: auto;
+    margin-left: 35px;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+}
+.hero .buttoncontacthero:hover {
+      font-family: Poppins;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 40px;
+    border: solid #95989A 1px;
+    height: 46.88px;
+    color: #95989A;
+    width: 163.4px;
+    font-size: 10px;
+    cursor: auto;
+      -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  }
+  .fa {
+    padding-left: 12px;
+    color : #AEAEAE;
+  }
+  .firstdude {
+height: 177px;
+    float: right;
+    margin-top: -162px;
+    margin-right: 284px; 
+          -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  }
+  .seconddude {
+height: 130px;
+    margin-top: -411px;
+    float: right;
+    margin-right: 124px;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px transparent;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+  }
+  .thirddude {
+    height: 110px;
+    margin-top: -184px;
+    float: right;
+    margin-right: 161px;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px transparent;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+  }
+  .fourthdude {
+height: 107px;
+    margin-top: -269px;
+    float: right;
+    margin-right: 10px;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px transparent;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+  }
+  .fifthdude {
+height: 107px;
+    margin-top: -427px;
+    float: right;
+    margin-right: -28px;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px transparent;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+  }
+  .firstdude:hover {
+         -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  }
+  .desc-michael {
+    opacity: 0;
+    display: block;
+    margin-left: 510px;
+    margin-top: -38px;
+    border: 1px solid #fff;
+    background: #fff;
+    width: 244px;
+    box-shadow: 0px 3px 17px #DEDEDE;
+    border-radius: 13px;
+    transition-property: all;
+    transition-duration: 0.4s;
+    transition-timing-function: ease;
+  }
+  .desc-jo {
+opacity: 0;
+    display: block;
+    margin-top: -572px;
+    margin-left: 751px;
+    border: 1px solid #fff;
+    background: #fff;
+    width: 244px;
+    box-shadow: 0px 3px 17px #DEDEDE;
+    border-radius: 13px;
+    transition-property: all;
+    transition-duration: 0.4s;
+    transition-timing-function: ease;
+  }
+    .desc-julie {
+    opacity: 0;
+    display: block;
+    margin-top: 383px;
+    margin-left: 751px;
+    border: 1px solid #fff;
+    background: #fff;
+    width: 244px;
+    box-shadow: 0px 3px 17px #DEDEDE;
+    border-radius: 13px;
+    transition-property: all;
+    transition-duration: 0.4s;
+    transition-timing-function: ease;
+  }
+      .desc-stephan {
+opacity: 0;
+    display: block;
+    margin-top: -152px;
+    margin-left: 982px;
+    border: 1px solid #fff;
+    background: #fff;
+    width: 244px;
+    box-shadow: 0px 3px 17px #DEDEDE;
+    border-radius: 13px;
+    transition-property: all;
+    transition-duration: 0.4s;
+    transition-timing-function: ease;
+  }
+        .desc-alexandre {
+opacity: 0;
+    display: block;
+    margin-top: -565px;
+    margin-left: 982px;
+    border: 1px solid #fff;
+    background: #fff;
+    width: 244px;
+    box-shadow: 0px 3px 17px #DEDEDE;
+    border-radius: 13px;
+    transition-property: all;
+    transition-duration: 0.4s;
+    transition-timing-function: ease;
+  }
+
+  .firstdude:hover + .desc-michael {
+    opacity: 1;
+     transition-property: all;
+    transition-duration: 0.4s;
+    transition-timing-function: ease;
+  }
+    .seconddude:hover + .desc-jo {
+    opacity: 1;
+     transition-property: all;
+    transition-duration: 0.4s;
+    transition-timing-function: ease;
+  }
+      .thirddude:hover + .desc-julie {
+    opacity: 1;
+     transition-property: all;
+    transition-duration: 0.4s;
+    transition-timing-function: ease;
+  }
+        .fourthdude:hover + .desc-stephan {
+    opacity: 1;
+     transition-property: all;
+    transition-duration: 0.4s;
+    transition-timing-function: ease;
+  }
+          .fifthdude:hover + .desc-alexandre {
+    opacity: 1;
+     transition-property: all;
+    transition-duration: 0.4s;
+    transition-timing-function: ease;
+  }
+    .seconddude:hover {
+         -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+    .thirddude:hover {
+         -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  }
+    .fourthdude:hover {
+         -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  }
+    .fifthdude:hover {
+         -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  }
+  h2 {
+    font-family: 'Brandon Grotesque';
+    padding-left: 26px;
+  }
+  .desc-high {
+    font-family: Poppins;
+    padding-left: 26px;
+    font-size: 13px;
+  }
